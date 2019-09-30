@@ -59,7 +59,9 @@ QUOTES_PHOTO = [
     "Ya mucho IG ¿No?",
     "Suficiente IG por hoy",
     "Ponete serio, dude",
-    "Solo excusa, excusa y excusa"
+    "Solo excusa, excusa y excusa",
+"Ponete en algo man",
+"Por cada vez que procrastinás, se muere un pajarito"
 ]
 
 QUOTES_STORY = [
